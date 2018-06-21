@@ -9,9 +9,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AlejandrLara12/nextu-evaluacion-final-backend.git"
+        "url": "git+https://github.com/gerardoavelar/nextu_backend_final.git"
     },
-    "author": "alejandro.elara@gmail.com",
+    "author": "gerardo.avelarp@gmail.com",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.18.2",

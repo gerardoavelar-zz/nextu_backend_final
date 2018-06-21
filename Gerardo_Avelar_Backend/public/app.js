@@ -41,8 +41,8 @@ $(document).ready(function() {
 
 
 
-    // cleates HTML/Template for '<option>'
-    function renderSelect(data) { 
+    // creates HTML/Template for '<option>'
+    function renderSelect(data) {
         // data must be an array ['NY', 'Miami', 'LA']
         var html = '';
         data.forEach(function(key, idx) {
@@ -54,7 +54,7 @@ $(document).ready(function() {
     // genereate HTML/Template for a 'card' / 'house available'
     function renderCard(objArr) {
         var html = '';
-        
+
         objArr.forEach(function(key, idx)
         {
             html += `<div class="card horizontal">
